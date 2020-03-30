@@ -1,7 +1,7 @@
 # Sensirion_SFM3300_Arduino
 A library to get the flow from the SFM3300 sensor from Sensirion.
 
-# Installation on Arduino IDE
+## Install Library
 - First you have to download this repository as zip. 
 - Then you have to select in the Arduino IDE Menubar:
     Sketch -> import library -> import Zip
